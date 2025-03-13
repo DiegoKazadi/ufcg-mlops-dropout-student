@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mestrado%20UFCG/Semestre%202024.2/Dados/MLOps%20dropout/ufcg-mlops-dropout-student/mlruns/746483729393550037/4492aee409fa4016861fada8681c718c/artifacts
+end_time: 1741895748789
+entry_point_name: ''
+experiment_id: '746483729393550037'
+lifecycle_stage: active
+run_id: 4492aee409fa4016861fada8681c718c
+run_name: youthful-squid-621
+run_uuid: 4492aee409fa4016861fada8681c718c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741895748185
+status: 4
+tags: []
+user_id: Big Data
