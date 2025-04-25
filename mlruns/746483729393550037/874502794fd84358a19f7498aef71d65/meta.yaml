@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mestrado%20UFCG/Semestre%202024.2/Dados/MLOps%20dropout/ufcg-mlops-dropout-student/mlruns/746483729393550037/874502794fd84358a19f7498aef71d65/artifacts
+end_time: 1745601850711
+entry_point_name: ''
+experiment_id: '746483729393550037'
+lifecycle_stage: active
+run_id: 874502794fd84358a19f7498aef71d65
+run_name: XGBoost
+run_uuid: 874502794fd84358a19f7498aef71d65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745601843011
+status: 3
+tags: []
+user_id: Big Data

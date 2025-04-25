@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mestrado%20UFCG/Semestre%202024.2/Dados/MLOps%20dropout/ufcg-mlops-dropout-student/mlruns/746483729393550037/82bc89f9f71a4a74bf1b1c69e85df14e/artifacts
+end_time: 1745602054823
+entry_point_name: ''
+experiment_id: '746483729393550037'
+lifecycle_stage: active
+run_id: 82bc89f9f71a4a74bf1b1c69e85df14e
+run_name: Regressão Logística
+run_uuid: 82bc89f9f71a4a74bf1b1c69e85df14e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745602048060
+status: 3
+tags: []
+user_id: Big Data

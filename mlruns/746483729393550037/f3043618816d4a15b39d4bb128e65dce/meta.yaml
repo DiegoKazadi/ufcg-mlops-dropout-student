@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mestrado%20UFCG/Semestre%202024.2/Dados/MLOps%20dropout/ufcg-mlops-dropout-student/mlruns/746483729393550037/f3043618816d4a15b39d4bb128e65dce/artifacts
+end_time: 1745602274392
+entry_point_name: ''
+experiment_id: '746483729393550037'
+lifecycle_stage: active
+run_id: f3043618816d4a15b39d4bb128e65dce
+run_name: entertaining-owl-391
+run_uuid: f3043618816d4a15b39d4bb128e65dce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745602274293
+status: 3
+tags: []
+user_id: Big Data
