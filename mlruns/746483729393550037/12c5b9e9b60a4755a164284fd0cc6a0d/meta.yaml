@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mestrado%20UFCG/Semestre%202024.2/Dados/MLOps%20dropout/ufcg-mlops-dropout-student/mlruns/746483729393550037/12c5b9e9b60a4755a164284fd0cc6a0d/artifacts
+end_time: 1745869685675
+entry_point_name: ''
+experiment_id: '746483729393550037'
+lifecycle_stage: active
+run_id: 12c5b9e9b60a4755a164284fd0cc6a0d
+run_name: Random Forest
+run_uuid: 12c5b9e9b60a4755a164284fd0cc6a0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745869675621
+status: 3
+tags: []
+user_id: Big Data
